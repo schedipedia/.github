@@ -2,8 +2,6 @@
 
 **Schedipedia** è l’app definitiva per **collezionisti** e appassionati di **schede telefoniche** italiane.
 
-![](https://www.albertopasca.it/v9/images/app-schedipedia.png)
-
 ---
 
 ## ✅ Che cos’è?
