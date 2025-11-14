@@ -29,7 +29,7 @@ Disponibile come:
 ---
 
 ## 🚀 Schedipedia
-Officia code repository for: `backend`, `AI`, `BOTs`, `Mobile apps`, `e-commerce`, and more...
+Official code repository for: `backend`, `AI`, `BOTs`, `Mobile apps`, `e-commerce`, and more...
 
 
 --
